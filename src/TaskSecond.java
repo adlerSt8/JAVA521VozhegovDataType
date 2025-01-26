@@ -4,7 +4,7 @@ public class TaskSecond {
         double side = 4;
         double square;
         System.out.println("Задача: найти площадь квадрата. Сторона квадрата = " + side);
-        square = (int) Math.pow(side, 2);
+        square = Math.pow(side, 2);
         System.out.println("Площадь квадрата: " + square);
     }
 }
