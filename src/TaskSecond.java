@@ -8,3 +8,4 @@ public class TaskSecond {
         System.out.println("Площадь квадрата: " + square);
     }
 }
+
